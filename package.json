@@ -1,0 +1,19 @@
+{
+	"name": "traversy-media---jest-crash-course---unit-testing-in-javascript",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"testWatch": "jest --watchAll"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^26.6.3"
+	},
+	"dependencies": {
+		"node-fetch": "^2.6.1"
+	}
+}
